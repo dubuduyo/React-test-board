@@ -1,0 +1,6 @@
+#main_header ul {
+    list-style: none;
+    display: flex;
+    gap: 10px;
+    border-bottom: 1px lightslategray solid;
+}
